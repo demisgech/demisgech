@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.JS, TypeScript, C++,And JavaScript**
+- 🌱 I’m currently learning 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻 Software Engineering 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
 
 - 📫 How to reach me **demisgech@gmail.com**
 
