@@ -1,7 +1,7 @@
 ![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
   ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
-<h1 align="center">Hi 👋, I'm Demis Getachew</h1>
+<h1 align="center">Hi 👋, I'm Yohannes Getachew</h1>
 <h3 align="center">A passionate Software Engineering student from Ethiopia.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demisgech" alt="demisgech" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻 Software Engineering 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
 
-- 📫 How to reach me **demissewg3@gmail.com**
+- 📫 How to reach me **demisgech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
